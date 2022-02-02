@@ -1,0 +1,15 @@
+/Users/Alex/Projects/ExponentsTable/ExponentsTable/obj/Debug/net6.0/ExponentsTable.csproj.AssemblyReference.cache
+/Users/Alex/Projects/ExponentsTable/ExponentsTable/obj/Debug/net6.0/ExponentsTable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Alex/Projects/ExponentsTable/ExponentsTable/obj/Debug/net6.0/ExponentsTable.AssemblyInfoInputs.cache
+/Users/Alex/Projects/ExponentsTable/ExponentsTable/obj/Debug/net6.0/ExponentsTable.AssemblyInfo.cs
+/Users/Alex/Projects/ExponentsTable/ExponentsTable/obj/Debug/net6.0/ExponentsTable.csproj.CoreCompileInputs.cache
+/Users/Alex/Projects/ExponentsTable/ExponentsTable/bin/Debug/net6.0/ExponentsTable
+/Users/Alex/Projects/ExponentsTable/ExponentsTable/bin/Debug/net6.0/ExponentsTable.deps.json
+/Users/Alex/Projects/ExponentsTable/ExponentsTable/bin/Debug/net6.0/ExponentsTable.runtimeconfig.json
+/Users/Alex/Projects/ExponentsTable/ExponentsTable/bin/Debug/net6.0/ExponentsTable.dll
+/Users/Alex/Projects/ExponentsTable/ExponentsTable/bin/Debug/net6.0/ref/ExponentsTable.dll
+/Users/Alex/Projects/ExponentsTable/ExponentsTable/bin/Debug/net6.0/ExponentsTable.pdb
+/Users/Alex/Projects/ExponentsTable/ExponentsTable/obj/Debug/net6.0/ExponentsTable.dll
+/Users/Alex/Projects/ExponentsTable/ExponentsTable/obj/Debug/net6.0/ref/ExponentsTable.dll
+/Users/Alex/Projects/ExponentsTable/ExponentsTable/obj/Debug/net6.0/ExponentsTable.pdb
+/Users/Alex/Projects/ExponentsTable/ExponentsTable/obj/Debug/net6.0/ExponentsTable.genruntimeconfig.cache

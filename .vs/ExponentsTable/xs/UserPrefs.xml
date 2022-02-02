@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{C352154A-25EF-441A-989F-D2AB44C89F0D}|Default">
+  <MonoDevelop.Ide.ItemProperties.ExponentsTable PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExponentsTable/Program.cs">
+    <Files>
+      <File FileName="ExponentsTable/Program.cs" Line="20" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExponentsTable" expanded="True">
+            <Node name="ExponentsTable" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
